@@ -5,3 +5,7 @@ text-transform: uppercase;
 .background-user {
   background-color: darkgrey;
 }
+
+.toggleButton {
+  margin-left: 10px;
+}
